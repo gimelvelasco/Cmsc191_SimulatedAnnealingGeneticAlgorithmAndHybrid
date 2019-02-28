@@ -1,0 +1,181 @@
+>> Velasco_GA
+====================DE JONGS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000001628779516
+Total Runtime of 4.910873 seconds
+The Root for Test Function 1 is:
+   -0.3325   -0.1232    0.2626   -0.0050   -0.1740
+
+==================================================================
+====================DE JONGS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000777232421
+Total Runtime of 4.879278 seconds
+The Root for Test Function 1 is:
+    0.0894    0.3820    0.1223    0.2221   -0.2285
+
+==================================================================
+====================DE JONGS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000207908031
+Total Runtime of 5.210733 seconds
+The Root for Test Function 1 is:
+    0.0433   -0.0779   -0.1151   -0.2012   -0.0047
+
+==================================================================
+>> 
+
+
+
+>> Velasco_GA
+====================DE JONGS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000002942649494
+Total Runtime of 6.488982 seconds
+The Root for Test Function 1 is:
+   -0.0268   -0.0294    0.0125    0.0056   -0.0254
+
+==================================================================
+====================DE JONGS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000172336498
+Total Runtime of 4.501031 seconds
+The Root for Test Function 1 is:
+   -0.3537    0.0308    0.1564   -0.0038   -0.0116
+
+==================================================================
+====================DE JONGS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000002265539
+Total Runtime of 6.194395 seconds
+The Root for Test Function 1 is:
+   -0.1704    0.0330   -0.0846   -0.0246   -0.0878
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+
+>> Velasco_SA
+====================DE JONGS FUNCTION=============================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0000272626154739
+Total Runtime of 8.138629 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 1 is
+   -0.0033    0.0007    0.0022    0.0006    0.0033
+
+==================================================================
+====================DE JONGS FUNCTION=============================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0000227980581202
+Total Runtime of 8.334264 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 1 is
+   -0.0015   -0.0017   -0.0001   -0.0014   -0.0040
+
+==================================================================
+====================DE JONGS FUNCTION=============================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0000220671967872
+Total Runtime of 7.661439 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 1 is
+   -0.0009    0.0007   -0.0029   -0.0035   -0.0004
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+
+
+>> Velasco_HSA
+====================DE JONGS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									0.3268591145368945
+Total Runtime:									33.070608 seconds
+Final Temperature:								0.0000000000000000
+Global Minimum is at:						   -0.1302   -0.0767   -0.5214   -0.1791    0.0082
+
+===================================================================
+====================DE JONGS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									0.9366748758260930
+Total Runtime:									33.246476 seconds
+Final Temperature:								0.0000000000000000
+Global Minimum is at:						   -0.0541   -0.8496    0.3838   -0.1424   -0.2104
+
+===================================================================
+====================DE JONGS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									0.1540129591847959
+Total Runtime:									32.998461 seconds
+Final Temperature:								0.0000000000000000
+Global Minimum is at:						    0.2633    0.0213   -0.2010   -0.2000    0.0618
+
+===================================================================
+>> 
+
+
+
+
+
+
+
+
+

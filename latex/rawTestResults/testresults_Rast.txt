@@ -1,0 +1,178 @@
+>> Velasco_GA
+====================RASTRIGINS FUNCTION===========================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000001175866657
+Total Runtime of 21.723596 seconds
+The Root for Test Function 4 is:
+   1.0e-03 *
+
+   -0.9301   -0.0134   -0.4978   -0.6990   -0.4859
+
+==================================================================
+====================RASTRIGINS FUNCTION===========================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000001605538813
+Total Runtime of 31.078311 seconds
+The Root for Test Function 4 is:
+   -0.0003    0.0007   -0.0010    0.0010    0.0010
+
+==================================================================
+====================RASTRIGINS FUNCTION===========================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000011114117271
+Total Runtime of 31.965664 seconds
+The Root for Test Function 4 is:
+   1.0e-03 *
+
+    0.6254   -0.5291   -0.7929   -0.6509   -0.5647
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+
+>> Velasco_GA
+====================RASTRIGINS FUNCTION===========================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000001834320216
+Total Runtime of 24.929613 seconds
+The Root for Test Function 4 is:
+    0.0004   -0.0009   -0.0011    0.0002   -0.0008
+
+==================================================================
+====================RASTRIGINS FUNCTION===========================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000012981022550
+Total Runtime of 27.179251 seconds
+The Root for Test Function 4 is:
+   1.0e-03 *
+
+   -0.0226    0.6462    0.7018   -0.3742   -0.6289
+
+==================================================================
+====================RASTRIGINS FUNCTION===========================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000001573858626
+Total Runtime of 25.738144 seconds
+The Root for Test Function 4 is:
+    0.0004   -0.0013    0.0006    0.0037   -0.0004
+
+==================================================================
+>> 
+
+
+
+
+
+
+>> Velasco_SA
+====================RASTRIGINS FUNCTION===========================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0029077856138855
+Total Runtime of 11.763194 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 4 is
+   -0.0004   -0.0033   -0.0016    0.0000    0.0010
+
+==================================================================
+====================RASTRIGINS FUNCTION===========================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0053554751793712
+Total Runtime of 12.193066 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 4 is
+   -0.0010    0.0010    0.0016   -0.0035   -0.0032
+
+==================================================================
+====================RASTRIGINS FUNCTION===========================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0040295752615549
+Total Runtime of 11.423596 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 4 is
+    0.0014   -0.0014   -0.0022   -0.0033    0.0004
+
+==================================================================
+>> 
+
+
+
+
+
+
+>> Velasco_HSA
+====================RASTRIGINS FUNCTION===========================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									15.0533617568294820
+Total Runtime:									43.844802 seconds
+Final Temperature:								0.0000000000000001
+Global Minimum is at:						    0.9273   -0.8861    1.1241   -0.1616   -1.0073
+
+===================================================================
+====================RASTRIGINS FUNCTION===========================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									9.6906558384364203
+Total Runtime:									41.267359 seconds
+Final Temperature:								0.0000000000000001
+Global Minimum is at:						   -0.0422    0.9167   -0.1714   -0.0753    0.0627
+
+===================================================================
+====================RASTRIGINS FUNCTION===========================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									5.6748821035144275
+Total Runtime:									43.064860 seconds
+Final Temperature:								0.0000000000000001
+Global Minimum is at:						   -0.0173    1.1258    0.0227    0.0788   -0.0194
+
+===================================================================
+>> 

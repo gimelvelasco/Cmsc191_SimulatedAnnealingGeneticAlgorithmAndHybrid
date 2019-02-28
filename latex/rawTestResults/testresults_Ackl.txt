@@ -1,0 +1,187 @@
+>> Velasco_GA
+=====================ACKLEYS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000017806073522
+Total Runtime of 117.492213 seconds
+The Root for Test Function 5 is:
+    0.0047    0.0000    0.0000    0.0000    0.0000
+
+==================================================================
+=====================ACKLEYS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000016138241499
+Total Runtime of 110.703474 seconds
+The Root for Test Function 5 is:
+   1.0e-04 *
+
+   -0.6682    0.0048    0.0163   -0.0040    0.0044
+
+==================================================================
+=====================ACKLEYS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000020718702238
+Total Runtime of 175.648554 seconds
+The Root for Test Function 5 is:
+   1.0e-05 *
+
+    0.0101   -0.0632    0.2192    0.1839   -0.0106
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+>> Velasco_GA
+=====================ACKLEYS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000024536697119
+Total Runtime of 97.037495 seconds
+The Root for Test Function 5 is:
+   1.0e-05 *
+
+    0.0391    0.0810   -0.1755   -0.0238   -0.1089
+
+==================================================================
+=====================ACKLEYS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000023195292762
+Total Runtime of 102.752662 seconds
+The Root for Test Function 5 is:
+   1.0e-05 *
+
+    0.0870   -0.0233    0.1169   -0.0914   -0.0869
+
+==================================================================
+=====================ACKLEYS FUNCTION=============================
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000022682935885
+Total Runtime of 99.319624 seconds
+The Root for Test Function 5 is:
+   1.0e-04 *
+
+   -0.1388   -0.0021    0.0026   -0.7859   -0.0151
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+>> Velasco_SA
+=====================ACKLEYS FUNCTION=============================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0510953540884351
+Total Runtime of 9.970444 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 5 is
+   -0.0081    0.0013    0.0046   -0.0209   -0.0097
+
+==================================================================
+=====================ACKLEYS FUNCTION=============================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0727323818645296
+Total Runtime of 10.005033 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 5 is
+   -0.0274   -0.0108   -0.0078   -0.0143   -0.0041
+
+==================================================================
+=====================ACKLEYS FUNCTION=============================
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0767774581619705
+Total Runtime of 9.342050 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 5 is
+   -0.0051   -0.0123   -0.0118    0.0306   -0.0020
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+
+
+
+
+>> Velasco_HSA
+=====================ACKLEYS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									7.9387525848275065
+Total Runtime:									36.696383 seconds
+Final Temperature:								0.0000000000000001
+Global Minimum is at:						    0.1985    3.8290    1.3270   -0.7477    0.7220
+
+===================================================================
+=====================ACKLEYS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									6.6927614708857774
+Total Runtime:									36.981226 seconds
+Final Temperature:								0.0000000000000001
+Global Minimum is at:						   -0.0615   -0.7929    1.6565    2.5951   -0.9831
+
+===================================================================
+=====================ACKLEYS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									4.3750885505125972
+Total Runtime:									36.230856 seconds
+Final Temperature:								0.0000000000000001
+Global Minimum is at:						    1.0691    1.4820   -0.9495    0.0092   -0.0961
+
+===================================================================
+>> 

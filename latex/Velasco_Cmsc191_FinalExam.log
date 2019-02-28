@@ -1,0 +1,1389 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.13)  13 DEC 2016 22:32
+entering extended mode
+**"C:/Users/Gimel Velasco/Documents/111Documents/UPB/Y5S1 huhu/CMSC191/finals/l
+atex/Velasco_Cmsc191_FinalExam.tex"
+
+("C:/Users/Gimel Velasco/Documents/111Documents/UPB/Y5S1 huhu/CMSC191/finals/la
+tex/Velasco_Cmsc191_FinalExam.tex"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen111
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(Velasco_Cmsc191_FinalExam.aux)
+\openout1 = `Velasco_Cmsc191_FinalExam.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Gimel Velasco\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen114
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen115
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+<graphs/tf1.jpg, id=1, 289.83281pt x 208.52907pt>
+File: graphs/tf1.jpg Graphic file (type jpg)
+ <use graphs/tf1.jpg>
+Package pdftex.def Info: graphs/tf1.jpg used on input line 35.
+(pdftex.def)             Requested size: 289.83209pt x 208.52855pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 34--38
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+[1
+
+{C:/Users/Gimel Velasco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<graphs/tf2.jpg, id=17, 278.54062pt x 201.75375pt>
+File: graphs/tf2.jpg Graphic file (type jpg)
+ <use graphs/tf2.jpg>
+Package pdftex.def Info: graphs/tf2.jpg used on input line 41.
+(pdftex.def)             Requested size: 278.53993pt x 201.75325pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 40--44
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+<graphs/tf3.jpg, id=18, 278.54062pt x 201.00093pt>
+File: graphs/tf3.jpg Graphic file (type jpg)
+ <use graphs/tf3.jpg>
+Package pdftex.def Info: graphs/tf3.jpg used on input line 47.
+(pdftex.def)             Requested size: 278.53993pt x 201.00043pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 46--50
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[2 <./graphs/tf1.jpg> <./graphs/tf2.jpg>]
+<graphs/tf4.jpg, id=22, 278.54062pt x 201.75375pt>
+File: graphs/tf4.jpg Graphic file (type jpg)
+ <use graphs/tf4.jpg>
+Package pdftex.def Info: graphs/tf4.jpg used on input line 53.
+(pdftex.def)             Requested size: 278.53993pt x 201.75325pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 52--56
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+
+ []
+
+<graphs/tf6.jpg, id=23, 280.04625pt x 200.24812pt>
+File: graphs/tf6.jpg Graphic file (type jpg)
+ <use graphs/tf6.jpg>
+Package pdftex.def Info: graphs/tf6.jpg used on input line 59.
+(pdftex.def)             Requested size: 280.04555pt x 200.24763pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 58--62
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+
+ []
+
+[3 <./graphs/tf3.jpg> <./graphs/tf4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--83
+
+ []
+
+[4 <./graphs/tf6.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--144
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
+
+ []
+
+<graphs/ga_tf1_s1_c1a.jpg, id=36, 562.1pt x 421.575pt>
+File: graphs/ga_tf1_s1_c1a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf1_s1_c1a.jpg>
+Package pdftex.def Info: graphs/ga_tf1_s1_c1a.jpg used on input line 157.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf1_s1_c1b.jpg, id=37, 562.1pt x 421.575pt>
+File: graphs/ga_tf1_s1_c1b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf1_s1_c1b.jpg>
+Package pdftex.def Info: graphs/ga_tf1_s1_c1b.jpg used on input line 159.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf1_s1_c1c.jpg, id=38, 562.1pt x 421.575pt>
+File: graphs/ga_tf1_s1_c1c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf1_s1_c1c.jpg>
+Package pdftex.def Info: graphs/ga_tf1_s1_c1c.jpg used on input line 161.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 156--163
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 156--163
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 156--163
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 156--163
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 156--163
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 156--163
+[] 
+ []
+
+[6 <./graphs/ga_tf1_s1_c1a.jpg> <./graphs/ga_tf1_s1_c1b.jpg>]
+<graphs/ga_tf1_s1_c2a.jpg, id=42, 562.1pt x 421.575pt>
+File: graphs/ga_tf1_s1_c2a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf1_s1_c2a.jpg>
+Package pdftex.def Info: graphs/ga_tf1_s1_c2a.jpg used on input line 165.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf1_s1_c2b.jpg, id=43, 562.1pt x 421.575pt>
+File: graphs/ga_tf1_s1_c2b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf1_s1_c2b.jpg>
+Package pdftex.def Info: graphs/ga_tf1_s1_c2b.jpg used on input line 167.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf1_s1_c2c.jpg, id=44, 562.1pt x 421.575pt>
+File: graphs/ga_tf1_s1_c2c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf1_s1_c2c.jpg>
+Package pdftex.def Info: graphs/ga_tf1_s1_c2c.jpg used on input line 169.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 164--171
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 164--171
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 164--171
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 164--171
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 164--171
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 164--171
+[] 
+ []
+
+[7 <./graphs/ga_tf1_s1_c1c.jpg> <./graphs/ga_tf1_s1_c2a.jpg> <./graphs/ga_tf1_s
+1_c2b.jpg>] <graphs/sa_tf1_a.jpg, id=49, 562.1pt x 421.575pt>
+File: graphs/sa_tf1_a.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf1_a.jpg>
+Package pdftex.def Info: graphs/sa_tf1_a.jpg used on input line 173.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf1_b.jpg, id=50, 562.1pt x 421.575pt>
+File: graphs/sa_tf1_b.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf1_b.jpg>
+Package pdftex.def Info: graphs/sa_tf1_b.jpg used on input line 175.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf1_c.jpg, id=51, 562.1pt x 421.575pt>
+File: graphs/sa_tf1_c.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf1_c.jpg>
+Package pdftex.def Info: graphs/sa_tf1_c.jpg used on input line 177.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 172--179
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 172--179
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 172--179
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 172--179
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 172--179
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 172--179
+[] 
+ []
+
+[8 <./graphs/ga_tf1_s1_c2c.jpg> <./graphs/sa_tf1_a.jpg> <./graphs/sa_tf1_b.jpg>
+] <graphs/saga_tf1_a.jpg, id=55, 562.1pt x 421.575pt>
+File: graphs/saga_tf1_a.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf1_a.jpg>
+Package pdftex.def Info: graphs/saga_tf1_a.jpg used on input line 181.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf1_b.jpg, id=56, 562.1pt x 421.575pt>
+File: graphs/saga_tf1_b.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf1_b.jpg>
+Package pdftex.def Info: graphs/saga_tf1_b.jpg used on input line 183.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf1_c.jpg, id=57, 562.1pt x 421.575pt>
+File: graphs/saga_tf1_c.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf1_c.jpg>
+Package pdftex.def Info: graphs/saga_tf1_c.jpg used on input line 185.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 180--187
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 180--187
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 180--187
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 180--187
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 180--187
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 180--187
+[] 
+ []
+
+[9 <./graphs/sa_tf1_c.jpg> <./graphs/saga_tf1_a.jpg> <./graphs/saga_tf1_b.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--198
+
+ []
+
+<graphs/ga_tf2_s1_c1a.jpg, id=61, 562.1pt x 421.575pt>
+File: graphs/ga_tf2_s1_c1a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf2_s1_c1a.jpg>
+Package pdftex.def Info: graphs/ga_tf2_s1_c1a.jpg used on input line 201.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf2_s1_c1b.jpg, id=62, 562.1pt x 421.575pt>
+File: graphs/ga_tf2_s1_c1b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf2_s1_c1b.jpg>
+Package pdftex.def Info: graphs/ga_tf2_s1_c1b.jpg used on input line 203.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf2_s1_c1c.jpg, id=63, 562.1pt x 421.575pt>
+File: graphs/ga_tf2_s1_c1c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf2_s1_c1c.jpg>
+Package pdftex.def Info: graphs/ga_tf2_s1_c1c.jpg used on input line 205.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 200--207
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 200--207
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 200--207
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 200--207
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 200--207
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 200--207
+[] 
+ []
+
+[10 <./graphs/saga_tf1_c.jpg> <./graphs/ga_tf2_s1_c1a.jpg>]
+<graphs/ga_tf2_s1_c2a.jpg, id=67, 562.1pt x 421.575pt>
+File: graphs/ga_tf2_s1_c2a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf2_s1_c2a.jpg>
+Package pdftex.def Info: graphs/ga_tf2_s1_c2a.jpg used on input line 209.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf2_s1_c2b.jpg, id=68, 562.1pt x 421.575pt>
+File: graphs/ga_tf2_s1_c2b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf2_s1_c2b.jpg>
+Package pdftex.def Info: graphs/ga_tf2_s1_c2b.jpg used on input line 211.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf2_s1_c2c.jpg, id=69, 562.1pt x 421.575pt>
+File: graphs/ga_tf2_s1_c2c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf2_s1_c2c.jpg>
+Package pdftex.def Info: graphs/ga_tf2_s1_c2c.jpg used on input line 213.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 208--215
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 208--215
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 208--215
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 208--215
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 208--215
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 208--215
+[] 
+ []
+
+[11 <./graphs/ga_tf2_s1_c1b.jpg> <./graphs/ga_tf2_s1_c1c.jpg> <./graphs/ga_tf2_
+s1_c2a.jpg>] <graphs/sa_tf2_a.jpg, id=73, 562.1pt x 421.575pt>
+File: graphs/sa_tf2_a.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf2_a.jpg>
+Package pdftex.def Info: graphs/sa_tf2_a.jpg used on input line 217.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf2_b.jpg, id=74, 562.1pt x 421.575pt>
+File: graphs/sa_tf2_b.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf2_b.jpg>
+Package pdftex.def Info: graphs/sa_tf2_b.jpg used on input line 219.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf2_c.jpg, id=75, 562.1pt x 421.575pt>
+File: graphs/sa_tf2_c.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf2_c.jpg>
+Package pdftex.def Info: graphs/sa_tf2_c.jpg used on input line 221.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 216--223
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 216--223
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 216--223
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 216--223
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 216--223
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 216--223
+[] 
+ []
+
+[12 <./graphs/ga_tf2_s1_c2b.jpg> <./graphs/ga_tf2_s1_c2c.jpg> <./graphs/sa_tf2_
+a.jpg>] <graphs/saga_tf2_a.jpg, id=79, 562.1pt x 421.575pt>
+File: graphs/saga_tf2_a.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf2_a.jpg>
+Package pdftex.def Info: graphs/saga_tf2_a.jpg used on input line 225.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf2_b.jpg, id=80, 562.1pt x 421.575pt>
+File: graphs/saga_tf2_b.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf2_b.jpg>
+Package pdftex.def Info: graphs/saga_tf2_b.jpg used on input line 227.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf2_c.jpg, id=81, 562.1pt x 421.575pt>
+File: graphs/saga_tf2_c.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf2_c.jpg>
+Package pdftex.def Info: graphs/saga_tf2_c.jpg used on input line 229.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 224--231
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 224--231
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 224--231
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 224--231
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 224--231
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 224--231
+[] 
+ []
+
+[13 <./graphs/sa_tf2_b.jpg> <./graphs/sa_tf2_c.jpg> <./graphs/saga_tf2_a.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 232--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+<graphs/ga_tf3_s1_c1a.jpg, id=86, 562.1pt x 421.575pt>
+File: graphs/ga_tf3_s1_c1a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf3_s1_c1a.jpg>
+Package pdftex.def Info: graphs/ga_tf3_s1_c1a.jpg used on input line 245.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf3_s1_c1b.jpg, id=87, 562.1pt x 421.575pt>
+File: graphs/ga_tf3_s1_c1b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf3_s1_c1b.jpg>
+Package pdftex.def Info: graphs/ga_tf3_s1_c1b.jpg used on input line 247.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf3_s1_c1c.jpg, id=88, 562.1pt x 421.575pt>
+File: graphs/ga_tf3_s1_c1c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf3_s1_c1c.jpg>
+Package pdftex.def Info: graphs/ga_tf3_s1_c1c.jpg used on input line 249.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 244--251
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 244--251
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 244--251
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 244--251
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 244--251
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 244--251
+[] 
+ []
+
+[14 <./graphs/saga_tf2_b.jpg> <./graphs/saga_tf2_c.jpg>]
+<graphs/ga_tf3_s1_c2a.jpg, id=92, 562.1pt x 421.575pt>
+File: graphs/ga_tf3_s1_c2a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf3_s1_c2a.jpg>
+Package pdftex.def Info: graphs/ga_tf3_s1_c2a.jpg used on input line 253.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf3_s1_c2b.jpg, id=93, 562.1pt x 421.575pt>
+File: graphs/ga_tf3_s1_c2b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf3_s1_c2b.jpg>
+Package pdftex.def Info: graphs/ga_tf3_s1_c2b.jpg used on input line 255.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf3_s1_c2c.jpg, id=94, 562.1pt x 421.575pt>
+File: graphs/ga_tf3_s1_c2c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf3_s1_c2c.jpg>
+Package pdftex.def Info: graphs/ga_tf3_s1_c2c.jpg used on input line 257.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 252--259
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 252--259
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 252--259
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 252--259
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 252--259
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 252--259
+[] 
+ []
+
+[15 <./graphs/ga_tf3_s1_c1a.jpg> <./graphs/ga_tf3_s1_c1b.jpg> <./graphs/ga_tf3_
+s1_c1c.jpg>] <graphs/sa_tf3_a.jpg, id=98, 562.1pt x 421.575pt>
+File: graphs/sa_tf3_a.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf3_a.jpg>
+Package pdftex.def Info: graphs/sa_tf3_a.jpg used on input line 261.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf3_b.jpg, id=99, 562.1pt x 421.575pt>
+File: graphs/sa_tf3_b.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf3_b.jpg>
+Package pdftex.def Info: graphs/sa_tf3_b.jpg used on input line 263.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf3_c.jpg, id=100, 562.1pt x 421.575pt>
+File: graphs/sa_tf3_c.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf3_c.jpg>
+Package pdftex.def Info: graphs/sa_tf3_c.jpg used on input line 265.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 260--267
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 260--267
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 260--267
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 260--267
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 260--267
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 260--267
+[] 
+ []
+
+[16 <./graphs/ga_tf3_s1_c2a.jpg> <./graphs/ga_tf3_s1_c2b.jpg> <./graphs/ga_tf3_
+s1_c2c.jpg>] <graphs/saga_tf3_a.jpg, id=104, 562.1pt x 421.575pt>
+File: graphs/saga_tf3_a.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf3_a.jpg>
+Package pdftex.def Info: graphs/saga_tf3_a.jpg used on input line 269.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf3_b.jpg, id=105, 562.1pt x 421.575pt>
+File: graphs/saga_tf3_b.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf3_b.jpg>
+Package pdftex.def Info: graphs/saga_tf3_b.jpg used on input line 271.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf3_c.jpg, id=106, 562.1pt x 421.575pt>
+File: graphs/saga_tf3_c.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf3_c.jpg>
+Package pdftex.def Info: graphs/saga_tf3_c.jpg used on input line 273.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 268--275
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 268--275
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 268--275
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 268--275
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 268--275
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 268--275
+[] 
+ []
+
+[17 <./graphs/sa_tf3_a.jpg> <./graphs/sa_tf3_b.jpg> <./graphs/sa_tf3_c.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 276--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--286
+
+ []
+
+<graphs/ga_tf4_s1_c1a.jpg, id=110, 562.1pt x 421.575pt>
+File: graphs/ga_tf4_s1_c1a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf4_s1_c1a.jpg>
+Package pdftex.def Info: graphs/ga_tf4_s1_c1a.jpg used on input line 289.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf4_s1_c1b.jpg, id=111, 562.1pt x 421.575pt>
+File: graphs/ga_tf4_s1_c1b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf4_s1_c1b.jpg>
+Package pdftex.def Info: graphs/ga_tf4_s1_c1b.jpg used on input line 291.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf4_s1_c1c.jpg, id=112, 562.1pt x 421.575pt>
+File: graphs/ga_tf4_s1_c1c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf4_s1_c1c.jpg>
+Package pdftex.def Info: graphs/ga_tf4_s1_c1c.jpg used on input line 293.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 288--295
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 288--295
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 288--295
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 288--295
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 288--295
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 288--295
+[] 
+ []
+
+[18 <./graphs/saga_tf3_a.jpg> <./graphs/saga_tf3_b.jpg> <./graphs/saga_tf3_c.jp
+g>] <graphs/ga_tf4_s1_c2a.jpg, id=116, 562.1pt x 421.575pt>
+File: graphs/ga_tf4_s1_c2a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf4_s1_c2a.jpg>
+Package pdftex.def Info: graphs/ga_tf4_s1_c2a.jpg used on input line 297.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf4_s1_c2b.jpg, id=117, 562.1pt x 421.575pt>
+File: graphs/ga_tf4_s1_c2b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf4_s1_c2b.jpg>
+Package pdftex.def Info: graphs/ga_tf4_s1_c2b.jpg used on input line 299.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf4_s1_c2c.jpg, id=118, 562.1pt x 421.575pt>
+File: graphs/ga_tf4_s1_c2c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf4_s1_c2c.jpg>
+Package pdftex.def Info: graphs/ga_tf4_s1_c2c.jpg used on input line 301.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 296--303
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 296--303
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 296--303
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 296--303
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 296--303
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 296--303
+[] 
+ []
+
+[19 <./graphs/ga_tf4_s1_c1a.jpg> <./graphs/ga_tf4_s1_c1b.jpg> <./graphs/ga_tf4_
+s1_c1c.jpg>] <graphs/sa_tf4_a.jpg, id=123, 562.1pt x 421.575pt>
+File: graphs/sa_tf4_a.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf4_a.jpg>
+Package pdftex.def Info: graphs/sa_tf4_a.jpg used on input line 305.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf4_b.jpg, id=124, 562.1pt x 421.575pt>
+File: graphs/sa_tf4_b.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf4_b.jpg>
+Package pdftex.def Info: graphs/sa_tf4_b.jpg used on input line 307.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf4_c.jpg, id=125, 562.1pt x 421.575pt>
+File: graphs/sa_tf4_c.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf4_c.jpg>
+Package pdftex.def Info: graphs/sa_tf4_c.jpg used on input line 309.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 304--311
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 304--311
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 304--311
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 304--311
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 304--311
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 304--311
+[] 
+ []
+
+[20 <./graphs/ga_tf4_s1_c2a.jpg> <./graphs/ga_tf4_s1_c2b.jpg> <./graphs/ga_tf4_
+s1_c2c.jpg>] <graphs/saga_tf4_a.jpg, id=129, 562.1pt x 421.575pt>
+File: graphs/saga_tf4_a.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf4_a.jpg>
+Package pdftex.def Info: graphs/saga_tf4_a.jpg used on input line 313.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf4_b.jpg, id=130, 562.1pt x 421.575pt>
+File: graphs/saga_tf4_b.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf4_b.jpg>
+Package pdftex.def Info: graphs/saga_tf4_b.jpg used on input line 315.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf4_c.jpg, id=131, 562.1pt x 421.575pt>
+File: graphs/saga_tf4_c.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf4_c.jpg>
+Package pdftex.def Info: graphs/saga_tf4_c.jpg used on input line 317.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 312--319
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 312--319
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 312--319
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 312--319
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 312--319
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 312--319
+[] 
+ []
+
+[21 <./graphs/sa_tf4_a.jpg> <./graphs/sa_tf4_b.jpg> <./graphs/sa_tf4_c.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 320--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--330
+
+ []
+
+<graphs/ga_tf5_s1_c1a.jpg, id=135, 562.1pt x 421.575pt>
+File: graphs/ga_tf5_s1_c1a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf5_s1_c1a.jpg>
+Package pdftex.def Info: graphs/ga_tf5_s1_c1a.jpg used on input line 333.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf5_s1_c1b.jpg, id=136, 562.1pt x 421.575pt>
+File: graphs/ga_tf5_s1_c1b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf5_s1_c1b.jpg>
+Package pdftex.def Info: graphs/ga_tf5_s1_c1b.jpg used on input line 335.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf5_s1_c1c.jpg, id=137, 562.1pt x 421.575pt>
+File: graphs/ga_tf5_s1_c1c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf5_s1_c1c.jpg>
+Package pdftex.def Info: graphs/ga_tf5_s1_c1c.jpg used on input line 337.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 332--339
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 332--339
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 332--339
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 332--339
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 332--339
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 332--339
+[] 
+ []
+
+[22 <./graphs/saga_tf4_a.jpg> <./graphs/saga_tf4_b.jpg> <./graphs/saga_tf4_c.jp
+g>] <graphs/ga_tf5_s1_c2a.jpg, id=141, 562.1pt x 421.575pt>
+File: graphs/ga_tf5_s1_c2a.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf5_s1_c2a.jpg>
+Package pdftex.def Info: graphs/ga_tf5_s1_c2a.jpg used on input line 341.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf5_s1_c2b.jpg, id=142, 562.1pt x 421.575pt>
+File: graphs/ga_tf5_s1_c2b.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf5_s1_c2b.jpg>
+Package pdftex.def Info: graphs/ga_tf5_s1_c2b.jpg used on input line 343.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/ga_tf5_s1_c2c.jpg, id=143, 562.1pt x 421.575pt>
+File: graphs/ga_tf5_s1_c2c.jpg Graphic file (type jpg)
+
+<use graphs/ga_tf5_s1_c2c.jpg>
+Package pdftex.def Info: graphs/ga_tf5_s1_c2c.jpg used on input line 345.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 340--347
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 340--347
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 340--347
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 340--347
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 340--347
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 340--347
+[] 
+ []
+
+[23 <./graphs/ga_tf5_s1_c1a.jpg> <./graphs/ga_tf5_s1_c1b.jpg> <./graphs/ga_tf5_
+s1_c1c.jpg>] <graphs/sa_tf5_a.jpg, id=147, 562.1pt x 421.575pt>
+File: graphs/sa_tf5_a.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf5_a.jpg>
+Package pdftex.def Info: graphs/sa_tf5_a.jpg used on input line 349.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf5_b.jpg, id=148, 562.1pt x 421.575pt>
+File: graphs/sa_tf5_b.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf5_b.jpg>
+Package pdftex.def Info: graphs/sa_tf5_b.jpg used on input line 351.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+ <graphs/sa_tf5_c.jpg, id=149, 562.1pt x 421.575pt>
+File: graphs/sa_tf5_c.jpg Graphic file (type jpg)
+
+<use graphs/sa_tf5_c.jpg>
+Package pdftex.def Info: graphs/sa_tf5_c.jpg used on input line 353.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 348--355
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 348--355
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 348--355
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 348--355
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 348--355
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 348--355
+[] 
+ []
+
+[24 <./graphs/ga_tf5_s1_c2a.jpg> <./graphs/ga_tf5_s1_c2b.jpg> <./graphs/ga_tf5_
+s1_c2c.jpg>] <graphs/saga_tf5_a.jpg, id=153, 562.1pt x 421.575pt>
+File: graphs/saga_tf5_a.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf5_a.jpg>
+Package pdftex.def Info: graphs/saga_tf5_a.jpg used on input line 357.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf5_b.jpg, id=154, 562.1pt x 421.575pt>
+File: graphs/saga_tf5_b.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf5_b.jpg>
+Package pdftex.def Info: graphs/saga_tf5_b.jpg used on input line 359.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+<graphs/saga_tf5_c.jpg, id=155, 562.1pt x 421.575pt>
+File: graphs/saga_tf5_c.jpg Graphic file (type jpg)
+
+<use graphs/saga_tf5_c.jpg>
+Package pdftex.def Info: graphs/saga_tf5_c.jpg used on input line 361.
+(pdftex.def)             Requested size: 209.87747pt x 157.40836pt.
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 356--363
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 356--363
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 356--363
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 356--363
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 356--363
+[]
+ []
+
+
+Overfull \hbox (50.00006pt too wide) in paragraph at lines 356--363
+[] 
+ []
+
+[25 <./graphs/sa_tf5_a.jpg> <./graphs/sa_tf5_b.jpg> <./graphs/sa_tf5_c.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 364--369
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--374
+
+ []
+
+[26 <./graphs/saga_tf5_a.jpg> <./graphs/saga_tf5_b.jpg> <./graphs/saga_tf5_c.jp
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 379--381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--384
+
+ []
+
+[27] (Velasco_Cmsc191_FinalExam.aux) ) 
+Here is how much of TeX's memory you used:
+ 1972 strings out of 493634
+ 30506 string characters out of 3143718
+ 88720 words of memory out of 3000000
+ 5307 multiletter control sequences out of 15000+200000
+ 9460 words of font info for 33 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,29p,1941b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on Velasco_Cmsc191_FinalExam.pdf (27 pages, 1885662 bytes).
+PDF statistics:
+ 210 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
+

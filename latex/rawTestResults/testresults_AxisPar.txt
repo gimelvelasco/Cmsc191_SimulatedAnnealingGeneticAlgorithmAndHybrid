@@ -1,0 +1,181 @@
+>> Velasco_GA
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000022745900856
+Total Runtime of 6.710970 seconds
+The Root for Test Function 2 is:
+    0.2041   -0.1966   -0.1077    0.0049   -0.1231
+
+==================================================================
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000000002325
+Total Runtime of 7.067819 seconds
+The Root for Test Function 2 is:
+   -0.1344   -0.0900   -0.0567   -0.0469   -0.0117
+
+==================================================================
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Single Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000001904247
+Total Runtime of 7.132704 seconds
+The Root for Test Function 2 is:
+   -0.1080    0.0225   -0.0818    0.0156    0.0468
+
+==================================================================
+>> 
+
+
+
+
+
+
+>> Velasco_GA
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000001222145921
+Total Runtime of 7.470816 seconds
+The Root for Test Function 2 is:
+   -0.0071    0.0206    0.0201    0.0124   -0.0025
+
+==================================================================
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000149503920
+Total Runtime of 8.144583 seconds
+The Root for Test Function 2 is:
+   -0.0601    0.0073    0.0280    0.0327    0.0334
+
+==================================================================
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+====================GENETIC ALGORITHM=============================
+Tournament Selection. Triple Point Crossover.
+===================Generations: 100000	Population: 5000===========
+Generation Number: 100000
+Population Size: 5000
+Crossover Rate: 0.25
+Mutation Rate: 0.10
+Dimensions: 5
+Fitness Function Value of 0.0000000000108856
+Total Runtime of 7.831053 seconds
+The Root for Test Function 2 is:
+   -0.0619   -0.0900    0.0146    0.0203   -0.0216
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+
+
+>> Velasco_SA
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0001007881240931
+Total Runtime of 9.653565 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 2 is
+    0.0049   -0.0038   -0.0013   -0.0029    0.0014
+
+==================================================================
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0000541526141050
+Total Runtime of 10.193402 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 2 is
+   -0.0032    0.0011   -0.0017    0.0016    0.0021
+
+==================================================================
+==============AXIS PARALLEL HYPER-ELLIPSOID FUNCTION==============
+==================SIMULATED ANNEALING=============================
+With the Objective Function Value of 0.0001096983982523
+Total Runtime of 9.422013 seconds
+And Final Cooling Temperature of 0.0000000000000000
+The Root for Test Function 2 is
+   -0.0073    0.0009   -0.0024    0.0024    0.0017
+
+==================================================================
+>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>> Velasco_HSA
+====================DE JONGS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									0.3191883857256569
+Total Runtime:									38.104256 seconds
+Final Temperature:								0.0000000000000000
+Global Minimum is at:						    0.0332    0.1728    0.5295   -0.0853   -0.0252
+
+===================================================================
+====================DE JONGS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									0.2092808118926163
+Total Runtime:									41.661338 seconds
+Final Temperature:								0.0000000000000000
+Global Minimum is at:						   -0.2845    0.1351    0.2844    0.0126   -0.1704
+
+===================================================================
+====================DE JONGS FUNCTION=============================
+==================HYBRID SIMULATED ANNEALING=======================
+Population Size: 1000	Crossover Rate: 0.90	Mutation Rate: 0.05	Cooling Ratio: 0.7
+Minimum Energy:									0.1959841090732147
+Total Runtime:									39.307025 seconds
+Final Temperature:								0.0000000000000000
+Global Minimum is at:						    0.1116    0.3660   -0.0945   -0.1498    0.1350
+
+===================================================================
+>> 
